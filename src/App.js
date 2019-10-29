@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <>
-    <h1>テスと11</h1>
+    <h1>澤田テスト</h1>
     <p>テスト2</p>
   </>
 )
